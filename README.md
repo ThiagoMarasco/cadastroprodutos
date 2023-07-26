@@ -1,2 +1,2 @@
 # cadastroprodutos
-Cadastro de Produtos
+Cadastro de Produtos para plataformas de e-commerce
